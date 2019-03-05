@@ -1,0 +1,7 @@
+C:\Users\Stojmilova\source\repos\Solution-Homework-class2\Homework-RealCalculator\bin\Debug\Homework-RealCalculator.exe.config
+C:\Users\Stojmilova\source\repos\Solution-Homework-class2\Homework-RealCalculator\bin\Debug\Homework-RealCalculator.exe
+C:\Users\Stojmilova\source\repos\Solution-Homework-class2\Homework-RealCalculator\bin\Debug\Homework-RealCalculator.pdb
+C:\Users\Stojmilova\source\repos\Solution-Homework-class2\Homework-RealCalculator\obj\Debug\Homework-RealCalculator.csprojAssemblyReference.cache
+C:\Users\Stojmilova\source\repos\Solution-Homework-class2\Homework-RealCalculator\obj\Debug\Homework-RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\source\repos\Solution-Homework-class2\Homework-RealCalculator\obj\Debug\Homework-RealCalculator.exe
+C:\Users\Stojmilova\source\repos\Solution-Homework-class2\Homework-RealCalculator\obj\Debug\Homework-RealCalculator.pdb
